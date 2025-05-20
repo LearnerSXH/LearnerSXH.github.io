@@ -137,6 +137,12 @@ a.no-underline:hover {
     padding-bottom: 10px;
 }
 
+.work-block ul li {
+  font-size: 15px; /* 调整为所需大小，默认通常为16px */
+  line-height: 1.6; /* 可选：增加行高提升可读性 */
+}
+
+
 .section_title {
     /*color: #159957;*/
     color: black;
