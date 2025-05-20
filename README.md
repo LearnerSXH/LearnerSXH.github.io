@@ -1,2 +1,4 @@
 # LearnerSXH.github.io
-Homepage
+My homepage
+
+Feel free to use and modify this template for yourself.
